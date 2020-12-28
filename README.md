@@ -31,12 +31,6 @@ I've changed my username over the years. Previously `@non-binary` and `@istx25`.
 - :dancers: I was active in the [Quick](https://github.com/quick) community.
 - :dancer: I was active in the [Jazzy](https://github.com/realm/jazzy) community.
 
-### Get in Touch
+### Want to get in touch? Email [luna@they-them.dev](mailto:luna@they-them.dev)
 
-- StackOverflow: [stackoverflow.com/they-them](https://stackoverflow.com/users/14798129/they-them?tab=profile)
-- GitHub: [github.com/they-them](https://github.com/they-them)
-- LinkedIn: coming soon
-- Site: [they-them.dev](https://they-them.dev)
-- Email: [luna@they-them.dev](mailto:luna@they-them.dev)
-
-### Looking for my Resume? [Here you go!](https://docs.google.com/document/d/1B59WJ3L1KAmhLaCY3WLTXLZY7oogTqBoVi8pOGVu8hU/edit)
+Looking for my Resume? [Here you go!](https://docs.google.com/document/d/1B59WJ3L1KAmhLaCY3WLTXLZY7oogTqBoVi8pOGVu8hU/edit)
