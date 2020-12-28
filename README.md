@@ -13,7 +13,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-Learning-F08E33)
 
 
-#### About Me
+#### About Me:
 
 I'm a non-binary generalist and full-stack engineer working in Montreal, Quebec. :canada:
 
