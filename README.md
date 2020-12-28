@@ -25,7 +25,7 @@ I'm a non-binary generalist full-stack engineer working in Montreal, Quebec :can
 
 #### What I've done:
 
-I recently changed my username. Previously `@non-binary` and `@istx25`.
+I've changed my username over the years. Previously `@non-binary` and `@istx25`.
 
 - :dollar: I've worked at [PSPDFKit](https://pspdfkit.com), [Travis CI](https://travis-ci.com), [CircleCI](https://circleci.com), and [Realm](https://realm.io).
 - :dancers: I was active in the [Quick](https://github.com/quick) community.
