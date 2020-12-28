@@ -15,13 +15,13 @@
 
 #### About Me
 
-I'm a non-binary generalist full-stack engineer working in Montreal, Quebec :canada:
+I'm a non-binary generalist and full-stack engineer working in Montreal, Quebec. :canada:
 
 #### What I'm doing:
 
-- :euro: I work at [Bitrise](https://bitrise.io) on tooling for the support team.
+- :euro: I'm currently working at [Bitrise](https://bitrise.io) developing internal tooling for the support team.
 - :spider: I'm working on [web scraping Canadian financial institutions for transaction data](https://github.com/web-scraping-adventures).
-- :speech_balloon: I built a [learning resource for working with the Slack slash command API](https://slash.wiki).
+- :speech_balloon: I'm building a [learning resource for working with the Slack slash command API](https://slash.wiki).
 
 #### What I've done:
 
@@ -31,6 +31,6 @@ I've changed my username over the years. Previously `@non-binary` and `@istx25`.
 - :dancers: I was active in the [Quick](https://github.com/quick) community.
 - :dancer: I was active in the [Jazzy](https://github.com/realm/jazzy) community.
 
-### Want to get in touch? Email [luna@they-them.dev](mailto:luna@they-them.dev)
+### Want to get in touch? Email [luna@they-them.dev](mailto:luna@they-them.dev)!
 
-Looking for my Resume? [Here you go!](https://docs.google.com/document/d/1B59WJ3L1KAmhLaCY3WLTXLZY7oogTqBoVi8pOGVu8hU/edit)
+Looking for my Resume? [Here you go](https://docs.google.com/document/d/1B59WJ3L1KAmhLaCY3WLTXLZY7oogTqBoVi8pOGVu8hU/edit)!
