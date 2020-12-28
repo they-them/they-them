@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Luna Graysen
+### Hi there, I'm Luna Graysen 👋 
 
 ![Counter](https://badges.pufler.dev/visits/they-them/they-them)
 ![Swift](https://img.shields.io/badge/Swift-Experienced-orange)
@@ -12,15 +12,18 @@
 ![Elixir](https://img.shields.io/badge/Elixir-Learning-6D5478)
 ![Kotlin](https://img.shields.io/badge/Kotlin-Learning-F08E33)
 
+
+#### About Me
+
 I'm a non-binary generalist full-stack engineer working in Montreal, Quebec :canada:
 
-#### Now:
+#### What I'm doing:
 
 - :euro: I work at [Bitrise](https://bitrise.io) on tooling for the support team.
 - :spider: I'm working on [web scraping Canadian financial institutions for transaction data](https://github.com/web-scraping-adventures).
 - :speech_balloon: I built a [learning resource for working with the Slack slash command API](https://slash.wiki).
 
-#### Before:
+#### What I've done:
 
 I recently changed my username. Previously `@non-binary` and `@istx25`.
 
@@ -28,7 +31,7 @@ I recently changed my username. Previously `@non-binary` and `@istx25`.
 - :dancers: I was active in the [Quick](https://github.com/quick) community.
 - :dancer: I was active in the [Jazzy](https://github.com/realm/jazzy) community.
 
-### 📬 Get in Touch
+### Get in Touch
 
 - StackOverflow: [stackoverflow.com/they-them](https://stackoverflow.com/users/14798129/they-them?tab=profile)
 - GitHub: [github.com/they-them](https://github.com/they-them)
@@ -36,4 +39,4 @@ I recently changed my username. Previously `@non-binary` and `@istx25`.
 - Site: [they-them.dev](https://they-them.dev)
 - Email: [luna@they-them.dev](mailto:luna@they-them.dev)
 
-### 📚 Looking for my Resume? [Here you go!](https://docs.google.com/document/d/1B59WJ3L1KAmhLaCY3WLTXLZY7oogTqBoVi8pOGVu8hU/edit)
+### Looking for my Resume? [Here you go!](https://docs.google.com/document/d/1B59WJ3L1KAmhLaCY3WLTXLZY7oogTqBoVi8pOGVu8hU/edit)
