@@ -28,8 +28,8 @@ I'm a non-binary generalist and full-stack engineer working in Montreal, Quebec.
 I've changed my username over the years. Previously `@non-binary` and `@istx25`.
 
 - :dollar: I've worked at [PSPDFKit](https://pspdfkit.com), [Travis CI](https://travis-ci.com), [CircleCI](https://circleci.com), and [Realm](https://realm.io).
-- :dancers: I was active in the [Quick](https://github.com/quick) community.
-- :dancer: I was active in the [Jazzy](https://github.com/realm/jazzy) community.
+- :dancer: I was active in the [Quick](https://github.com/quick) community.
+- :trumpet: I was active in the [Jazzy](https://github.com/realm/jazzy) community.
 
 ### Want to get in touch? Email [luna@they-them.dev](mailto:luna@they-them.dev)!
 
