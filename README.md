@@ -19,17 +19,19 @@ I'm a non-binary generalist and full-stack engineer working in Montreal, Quebec.
 
 #### What I'm doing:
 
-- :euro: I'm currently working at [Bitrise](https://bitrise.io) developing internal tools for the support team.
-- :spider: I'm working on [web scraping Canadian financial institutions for transaction data](https://github.com/web-scraping-adventures).
-- :speech_balloon: I'm building a [learning resource for working with the Slack slash command API](https://slash.wiki).
+- :euro: I currently working at [Bitrise](https://bitrise.io) developing internal tools for the support team.
+- :spider: I am working on [web scraping Canadian financial institutions for transaction data](https://github.com/web-scraping-adventures).
+- :speech_balloon: I am building a [learning resource for working with the Slack slash command API](https://slash.wiki).
 
 #### What I've done:
 
-I've changed my username over the years. Previously `@non-binary` and `@istx25`.
+- :dollar: I have worked at [PSPDFKit](https://pspdfkit.com), [Travis CI](https://travis-ci.com), [CircleCI](https://circleci.com), and [Realm](https://realm.io).
+- :dancer: I was a core contributor on the [Quick](https://github.com/quick/quick) project.
+- :trumpet: I was a frequent contributor in the [Jazzy](https://github.com/realm/jazzy) community answering questions.
+- :books: I taught iOS development at [Lighthouse Labs](https://lighthouselabs.ca).
+- :tickets: I attended WWDC 2014 on scholarship.
 
-- :dollar: I've worked at [PSPDFKit](https://pspdfkit.com), [Travis CI](https://travis-ci.com), [CircleCI](https://circleci.com), and [Realm](https://realm.io).
-- :dancer: I was active in the [Quick](https://github.com/quick) community.
-- :trumpet: I was active in the [Jazzy](https://github.com/realm/jazzy) community.
+I've changed my username over the years. Previously `@non-binary` and `@istx25`.
 
 ### Want to get in touch? Email [luna@they-them.dev](mailto:luna@they-them.dev)!
 
