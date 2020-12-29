@@ -9,7 +9,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-Learning-3177C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Learning-F7DF1E)
 ![Ruby](https://img.shields.io/badge/Ruby-Learning-701315)
-![Elixir](https://img.shields.io/badge/Elixir-Learning-6D5478)
+![Elixir](https://img.shields.io/badge/Elixir-Learning-6E4A7E)
 ![Kotlin](https://img.shields.io/badge/Kotlin-Learning-F08E33)
 
 
