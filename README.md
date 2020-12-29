@@ -19,7 +19,7 @@ I'm a non-binary generalist and full-stack engineer working in Montreal, Quebec.
 
 #### What I'm doing:
 
-- :euro: I currently working at [Bitrise](https://bitrise.io) developing internal tools for the support team.
+- :euro: I am currently working at [Bitrise](https://bitrise.io) developing internal tools for the support team.
 - :spider: I am working on [web scraping Canadian financial institutions for transaction data](https://github.com/web-scraping-adventures).
 - :speech_balloon: I am building a [learning resource for working with the Slack slash command API](https://slash.wiki).
 
