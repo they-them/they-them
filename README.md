@@ -34,5 +34,3 @@ I'm a non-binary pixel artist, generalist, and full-stack mobile engineer workin
 I've changed my username over the years. Previously `@non-binary` and `@istx25`.
 
 ### Want to get in touch? Email [luna@they-them.dev](mailto:luna@they-them.dev)!
-
-Looking for my Resume? [Here you go](https://docs.google.com/document/d/1B59WJ3L1KAmhLaCY3WLTXLZY7oogTqBoVi8pOGVu8hU/edit)!
