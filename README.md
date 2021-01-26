@@ -25,7 +25,7 @@ I'm a non-binary pixel artist, generalist, and full-stack mobile engineer workin
 
 #### What I've done:
 
-- :euro: I have worked at [PSPDFKit](https://pspdfkit.com), [Travis CI](https://travis-ci.com), [CircleCI](https://circleci.com), and [Realm](https://realm.io).
+- :euro: I have worked at [Realm](https://realm.io), [CircleCI](https://circleci.com), [Travis CI](https://travis-ci.com), [PSPDFKit](https://pspdfkit.com), and [Bitrise](https://bitrise.io).
 - :dancer: I was a core contributor on the [Quick](https://github.com/quick/quick) project.
 - :trumpet: I was a frequent contributor in the [Jazzy](https://github.com/realm/jazzy) community answering questions.
 - :books: I taught iOS development at [Lighthouse Labs](https://lighthouselabs.ca).
