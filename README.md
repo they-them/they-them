@@ -15,7 +15,7 @@
 
 #### About Me:
 
-I'm a non-binary pixel artist, generalist, and full-stack engineer working in Montreal, Quebec. :canada:
+I'm a non-binary pixel artist, generalist, and full-stack mobile engineer working in Montreal, Quebec. :canada:
 
 #### What I'm doing:
 
