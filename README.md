@@ -21,11 +21,11 @@ I'm a non-binary pixel artist, generalist, and full-stack mobile engineer workin
 
 - :spider: I am working on [web scraping Canadian financial institutions for transaction data](https://github.com/web-scraping-adventures).
 - :speech_balloon: I am building a [learning resource for working with the Slack slash command API](https://slash.wiki).
-- :euro: I am currently working at [Bitrise](https://bitrise.io) developing internal tools for the support team.
+- :dollar: I am currently working at [LEX](https://lex-markets.com) as an iOS engineer.
 
 #### What I've done:
 
-- :dollar: I have worked at [PSPDFKit](https://pspdfkit.com), [Travis CI](https://travis-ci.com), [CircleCI](https://circleci.com), and [Realm](https://realm.io).
+- :euro: I have worked at [PSPDFKit](https://pspdfkit.com), [Travis CI](https://travis-ci.com), [CircleCI](https://circleci.com), and [Realm](https://realm.io).
 - :dancer: I was a core contributor on the [Quick](https://github.com/quick/quick) project.
 - :trumpet: I was a frequent contributor in the [Jazzy](https://github.com/realm/jazzy) community answering questions.
 - :books: I taught iOS development at [Lighthouse Labs](https://lighthouselabs.ca).
