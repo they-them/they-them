@@ -21,7 +21,7 @@ I'm a non-binary pixel artist, generalist, and full-stack mobile engineer workin
 
 - :spider: I am working on [web scraping Canadian financial institutions for transaction data](https://github.com/web-scraping-adventures).
 - :speech_balloon: I am building a [learning resource for working with the Slack slash command API](https://slash.wiki).
-- :dollar: I am currently working at [LEX](https://lex-markets.com) as an iOS engineer.
+- :dollar: I am currently looking for my next full-time role.
 
 #### What I've done:
 
